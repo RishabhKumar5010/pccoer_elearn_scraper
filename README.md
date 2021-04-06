@@ -58,6 +58,9 @@ and then run
 
 in a terminal
 
+Other requirements:
+* Firefox geckodriver
+* pandas and selenium python packages.
 
 ### Features:
 
