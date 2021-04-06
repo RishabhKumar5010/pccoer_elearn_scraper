@@ -85,7 +85,7 @@ eg. the website shows year options as 'First Year', 'Second Year', 'Third Year',
 as 'First Year'. The automation spends a lot time trying such unfruitful combinations.
 
 * After the user does a query, the site resets the form, which gives a bad UX if user wants to carry
-multiple simiar queries.
+multiple similar queries.
 
 * Some AJAX calls take more than 3 sec for select tag to become active or for options to update.
 
