@@ -64,7 +64,7 @@ Other requirements:
 
 ### Features:
 
-* Reattempts certain number of times considering both client and server side latencies and network problems.
+* Reattempts queries certain number of times considering both client and server side latencies and network problems.
 * Generates offline copy of the fetch as SQL db to reduce load on server side query.
 * Can be run multiple times without user to worry about cleaning the workspace.
 * Standalone application.
