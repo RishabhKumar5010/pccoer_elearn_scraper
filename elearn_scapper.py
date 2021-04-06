@@ -3,7 +3,6 @@ from selenium.webdriver.common.keys import Keys
 from time import sleep
 from selenium.webdriver.support.select import Select
 import pandas as pd
-import io
 
 import sqlite3
 
