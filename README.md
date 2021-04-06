@@ -15,12 +15,12 @@ Just call this class
 
 You can pass upto 6 values to it,
 
-            #depts = ['Computer Engineering'],
-            #years = ['Third Year'],
-            #courses = ['2015'],
-            #semesters = ['First','Second'],
-            #subtypes = ['Theory'])
-            #subs = ['SEPM'])
+    #depts = ['Computer Engineering'],
+    #years = ['Third Year'],
+    #courses = ['2015'],
+    #semesters = ['First','Second'],
+    #subtypes = ['Theory'])
+    #subs = ['SEPM'])
 
 All these arguments have to be a 'list' of values to be selected in that category
 
