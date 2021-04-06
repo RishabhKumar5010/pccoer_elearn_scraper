@@ -27,6 +27,33 @@ All these arguments have to be a 'list' of values to be selected in that categor
 if any of these arguments aren't passed then all possible combinations for that entry will be considered
 
 
+Without any argument, that is all possible combinations the scraping usually takes around 10min to finish.
+
+Once scraped the result would be displayed in the terminal associated with the execution of this program,
+and as a `resource` table in `TestDB.db` SQLite output. `TestDB.db` would be generated in the current working
+directory.
+
+One can then use the following commands in an SQLite3 console in the same directory as
+where `TestDB.db` is generated to view the full formatted table.
+
+```SQL
+.open TestDB.db
+.mode columns
+select * from resource;
+```
+
+Note the above works only in an SQLite3 console.
+
+On linux systems to get SQLite:
+
+`sudo apt install sqlite`
+
+and then run
+
+`sqlite3`
+
+in a terminal
+
 ### Applications:
 
 * Testing if every selection is working right.
