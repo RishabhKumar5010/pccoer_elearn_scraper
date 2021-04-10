@@ -1,5 +1,5 @@
-# pccoer-elearn-scrapper
-A scrapper and Automation testing utility for pccoerelearning.com website
+# pccoer-elearn-scraper
+A scraper and Automation testing utility for pccoerelearning.com website
 
 
 ### What does it do?
@@ -12,7 +12,7 @@ scraped result into SQLite database.
 NOTE :: Before using this code on http://pccoerelearning.com/StudentDownload.php
 take necessary permissions from PCCOER (Nilesh Korade Sir).
 
-Class `pccoer_ELearning` does the automatic scrapping and automation testing.
+Class `pccoer_ELearning` does the automatic scraping and automation testing.
 
 Edit the following constructor call in the code as per requirements.
 
