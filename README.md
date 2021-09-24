@@ -90,18 +90,6 @@ multiple similar queries.
 * Some AJAX calls take more than 3 sec for select tag to become active or for options to update.
 
 
-### Inspiration:
-
-I have almost never submitted or needed to submit a written assignment. Be it school or college, I try my best
-not to submit a written assignment unless it seems worth it or unavoidable. I do however like to approach my
-faculties, and ask them if I could submit a small project instead (off syllabus). I maybe lucky to have understanding
-teachers in this matter, specially in my engineering college (PCCOER), that I hardly ever need to submit a written assignment.
-Infact by what I have observed, my teachers love to have such mini-projects instead of assignments. This is not however
-a default culture that is openly encouraged, but kindoff a secret bypass that is available for anyone
-that wants to go that way. Again I am lucky to have such faculties in my education journey.
-
-This was created as a substitute to SEPM assignment, and for practicing selenium in python.
-
 ### Credits:
 
 * Proff. Nilesh Korade (my SEPM teacher)
